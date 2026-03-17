@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+*.log
+.DS_Store
+.vscode/
+.idea/
+*.db
+*.sqlite
+alembic/versions/*.py
+!alembic/versions/.gitkeep
+PROMPTS.md
